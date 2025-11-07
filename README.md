@@ -125,7 +125,7 @@ LICENSE
 
 - **Base Model:** Ultralytics YOLOv8 (GPL-3.0 License)  
 - **Dataset:** WIDER FACE  
-- **Project Author:** [Ajay Bharathi](https://www.linkedin.com/in/ajay-bharathi/)    
+- **Project Author:** [Ajay Bharathi](https://www.linkedin.com/in/ajay-bharathi/), [Sridhar.S](https://www.linkedin.com/in/sridhar-s-44099425a/)   
 - **Organization:** Cryptarchs  
 - **Contributors:** Open for community contributions!  
 
