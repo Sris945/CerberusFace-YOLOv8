@@ -1,0 +1,4 @@
+path: /widerface
+train: /root/wider/widerface/images/train
+val: /root/wider/widerface/images/val
+names: ['face']
